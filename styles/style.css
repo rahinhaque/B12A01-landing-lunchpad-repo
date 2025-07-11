@@ -290,3 +290,122 @@
     border-radius: 48px;
     margin-top: 20px;
 }
+
+/* get in touch section  */
+
+.get-in-touch-container{
+    display: flex;
+    justify-content: center;
+    gap: 115px;
+    margin-top: 97px;
+}
+
+.get-in-head{
+    font-size: 97px;
+    font-weight: bold;
+    color: #000000;
+}
+
+.email{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+#email1{
+    width: 497px;
+    height: 70px;
+    padding-left: 32px;
+    border-radius: 10px;
+    border: none;
+}
+
+.name{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+#name2{
+    width: 497px;
+    height: 70px;
+    padding-left: 32px;
+    border-radius: 10px;
+    border: none;
+}
+
+.masasage{
+     font-size: 18px;
+    font-weight: 500;
+}
+
+#masasage2{
+    width: 497px;
+    height: 135px;
+    padding-left: 32px;
+    border-radius: 10px;
+    border: none;
+    padding-top: 20px;
+}
+
+.getintouch-btn{
+    width: 499px;
+    height: 62px;
+    margin-top: 20px;
+    color: white;
+    background-color: #4E47FF;
+    border-radius: 10px;
+    border: none;
+    padding: right 110px; ;
+}
+.btn-lekha{
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 101px;
+}
+
+.get-touch-section{
+    padding-top: 90px;
+}
+
+/* footer section  */
+
+.footer-logo{
+    font-size: 100px;
+    font-weight: 900;
+    color: #4E47FF;
+}
+
+.logo-dis1{
+    font-size: 20px;
+    font-weight: 400;
+    color: #8987A1;
+}
+
+.nav-menu {
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+}
+
+ .nav-menu a {
+      text-decoration: none;
+      color: #888; /* light gray color */
+      font-size: 20px;
+      padding: 5px;
+    }
+
+.logo-container{
+    text-align: center;
+    width: 100%px;
+    height: 428px;
+    background-color: #fffefe;
+    margin: 0 auto;
+    padding-top: 90px;
+    margin-top: 90px;
+}    
+
+.footer-logo{
+    margin-bottom: 8px;
+}
+.logo-dis1{
+    margin-bottom: 20px;
+}
