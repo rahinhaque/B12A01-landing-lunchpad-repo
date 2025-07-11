@@ -249,3 +249,44 @@
     gap: 24px;
     
 }
+
+/* focus better sexction  */
+
+.focus-container{
+    text-align: center;
+    background-color: #fff6f6;
+    width: 1140px;
+    height: 696.77px;
+    margin-left: 215px;
+    border-radius: 14px;
+    padding: 71px 150px 71px 150px;
+    margin-top: 140px;
+}
+
+.focus-er-title{
+    font-size: 50px;
+    font-weight: bold;
+    color: #000000;
+}
+
+.focus-er-des{
+    font-size: 16px;
+    font-weight: 400;
+    color: #5c5a6e;
+}
+
+.focus-er-btn{
+    width: 195px;
+    height: 48px;
+    background-color: #4E47FF;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+
+.focus-er-pic{
+    width: 840px;
+    height: 364.77px;
+    border-radius: 48px;
+    margin-top: 20px;
+}
